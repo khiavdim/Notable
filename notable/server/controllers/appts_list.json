@@ -1,0 +1,74 @@
+        [
+            {
+                "id": 1,
+                "patient_fname": "Sterling",
+                "patient_lname": "Archer",
+                "time": "8:00AM",
+                "kind": "New Patient",
+                "doctor_id": 2
+            },
+            {
+                "id": 2,
+                "patient_fname": "Cyril",
+                "patient_lname": "Figis",
+                "time": "8:30AM",
+                "kind": "Follow Up",
+                "doctor_id": 2
+            },
+            {
+                "id": 3,
+                "patient_fname": "Ray",
+                "patient_lname": "Gilette",
+                "time": "9:00AM",
+                "kind": "Follow Up",
+                "doctor_id": 2
+            },
+            {
+                "id": 4,
+                "patient_fname": "Lana",
+                "patient_lname": "Kane",
+                "time": "8:00AM",
+                "kind": "New Patient",
+                "doctor_id": 1
+            },
+            {
+                "id": 5,
+                "patient_fname": "Pam",
+                "patient_lname": "Poovey",
+                "time": "8:30AM",
+                "kind": "Follow Up",
+                "doctor_id": 1
+            },
+            {
+                "id": 6,
+                "patient_fname": "Jim",
+                "patient_lname": "Halpert",
+                "time": "9:00AM",
+                "kind": "Follow Up",
+                "doctor_id": 1
+            },
+            {
+                "id": 7,
+                "patient_fname": "Test",
+                "patient_lname": "One",
+                "time": "8:00AM",
+                "kind": "New Patient",
+                "doctor_id": 3
+            },
+            {
+                "id": 8,
+                "patient_fname": "Hello",
+                "patient_lname": "World",
+                "time": "8:30AM",
+                "kind": "Follow Up",
+                "doctor_id": 3
+            },
+            {
+                "id": 9,
+                "patient_fname": "Goodbye",
+                "patient_lname": "World",
+                "time": "9:00AM",
+                "kind": "Follow Up",
+                "doctor_id": 3
+            }   
+        ]
